@@ -28,7 +28,7 @@ public class ExtentReport {
             System.out.println(e);
         }
     }
-
+   //Kavya added the new code
     @Then("user registration should be successful")
     public void user_registration_should_be_successful() {
         System.out.println("user registration should be successful");
