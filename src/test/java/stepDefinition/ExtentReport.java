@@ -34,5 +34,5 @@ public class ExtentReport {
         System.out.println("user registration should be successful");
     }
 
-
+// Step definition created
     }
