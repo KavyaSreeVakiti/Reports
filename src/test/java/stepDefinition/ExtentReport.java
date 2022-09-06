@@ -31,7 +31,7 @@ public class ExtentReport {
    //Kavya added the new code
     @Then("user registration should be successful")
     public void user_registration_should_be_successful() {
-        System.out.println("user registration should be successful");
+        System.out.println("user registration should be successful and no errors"); // code changed by person B
     }
 
 // Step definition created
